@@ -1,4 +1,5 @@
 import { Data } from "vfile";
+
 import { GlobalConfiguration } from "../../cfg";
 import { sluggify } from "../../util/path";
 
