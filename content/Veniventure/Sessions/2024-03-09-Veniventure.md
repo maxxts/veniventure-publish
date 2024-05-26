@@ -2,7 +2,7 @@
 title: 2024-03-09-Veniventure
 share: true
 draft: false
-category: Veniventure/Session
+category: Veniventure/Sessions
 tags: DnD/Session
 world: Veniventure
 created: 2024-03-09
