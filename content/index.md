@@ -7,10 +7,10 @@ tags: DnD
 
 ## Tools
 
-- [5e Tools - Spell List](https://5e.tools/spells.html) 
+- [5e Tools - Spell List](https://5e.tools/spells.html)
 - [D&D Beyond - My Characters](https://www.dndbeyond.com/characters)
 
-Test Changes 01
+Test Changes 02
 
 ## Active Games
 
@@ -22,8 +22,5 @@ Test Changes 01
 | ---- | ------- | ---- |
 
 
-
 ## Pending
-
-
 
