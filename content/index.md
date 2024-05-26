@@ -10,7 +10,7 @@ tags: Home
 - [5e Tools - Spell List](https://5e.tools/spells.html)
 - [D&D Beyond - My Characters](https://www.dndbeyond.com/characters)
 
-#TODO> fix plugins (if possible) and test  dual-repo integration + see if dataviews update without updating this file
+#TODO> fix fucking dataview links..... -.-
 
 ## Active Games
 
