@@ -10,8 +10,6 @@ tags: Home
 - [5e Tools - Spell List](https://5e.tools/spells.html)
 - [D&D Beyond - My Characters](https://www.dndbeyond.com/characters)
 
-#TODO> cross fingersss!!!
-
 ## Active Games
 
 - [[./Veniventure/World of Veniventure|World of Veniventure]]
