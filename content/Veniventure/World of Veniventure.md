@@ -22,8 +22,6 @@ world: Veniventure
 
 ## Last Sessions
 
-#TODO test data viewssssssss linkssss babyy
-
 | File                                                                               | Summary                                          | Date                        |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------- |
 | [[./Sessions/2024-05-25-Veniventure\|2024-05-25-Veniventure]] | Las Sombras de Saltmarch                         | Saturday, May 25, 2024      |
