@@ -2,7 +2,7 @@
 title: 2023-09-09-Veniventure
 share: true
 draft: false
-category: Session
+category: Veniventure/Session
 tags: DnD/Session
 world: Veniventure
 created: 2023-09-09
