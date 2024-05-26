@@ -2,6 +2,7 @@
 title: 2023-12-08-Veniventure
 share: true
 draft: false
+category: Session
 tags: DnD/Session
 world: Veniventure
 created: 2023-12-08

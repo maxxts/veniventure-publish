@@ -2,6 +2,7 @@
 title: 2024-04-07-Veniventure
 share: true
 draft: false
+category: Session
 tags: DnD/Session
 world: Veniventure
 created: 2024-04-07

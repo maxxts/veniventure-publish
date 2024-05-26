@@ -2,7 +2,6 @@
 title: World of Veniventure
 share: true
 draft: false
-tags: []
 world: Veniventure
 ---
 < [[index|Home]]
