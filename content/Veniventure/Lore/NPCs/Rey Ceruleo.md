@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Rey Ceruleo
 share: true
 draft: false
 category: Veniventure/Lore/NPCs
