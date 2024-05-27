@@ -4,7 +4,7 @@ share: true
 draft: false
 category: Veniventure/Quests
 tags: Dnd/Quest
-campaign: Veniventure
+world: Veniventure
 ---
 < [[../../Quest Summary|Quest Summary]]
 # New Quest
@@ -13,7 +13,7 @@ campaign: Veniventure
 
 
 
-## Objectives
+## Objectives 
 
 - [x] Ir a [[../Lore/Locations/Saltmarch|Saltmarch]]
 - [ ] Investigar la zona y verificar que todo este en order para recibir a los habitantes de [[../Lore/Locations/Greenrest|Greenrest]]
