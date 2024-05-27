@@ -8,11 +8,11 @@ world: Veniventure
 created: 2024-04-07
 summary: El Complot de Andaman y El Emperador de las Olas
 ---
-< [[World of Veniventure|World of Veniventure]]
+< [[../../World of Veniventure|World of Veniventure]]
 # Session Notes
 
-## Day 5
-<small>27 dias para la deuda de Miguelios</small>
+## Day 8
+<small>26 dias para la deuda de Miguelios</small>
 
 ### Maps
 
@@ -53,23 +53,23 @@ darkMode: false
 Nos encontramos luego de la pelea con Krell en la Habitacion 10 (The Unholy Shrine)
 ### The Unholy Shrine
 
-Estamos en la habitación 10, the unholy shrine. El suelo esta cubierto con runas de sangre. Telarañas evrywhere. Cadaveres de araña everywhere. [[Tulion|Tulion]] revisa las runas, y nos confirma que estas desactivadas. [[Miguelios|Miguelios]] y [[Barr-Barron|Barr-Barron]] deciden patear la puerta hacia la habitacion 11, revelando la siguiente habitacion...
+Estamos en la habitación 10, the unholy shrine. El suelo esta cubierto con runas de sangre. Telarañas evrywhere. Cadaveres de araña everywhere. [[../Lore/Playable Characters/Tulion|Tulion]] revisa las runas, y nos confirma que estas desactivadas. [[../Lore/Playable Characters/Miguelios|Miguelios]] y [[../Lore/Playable Characters/Barr-Barron|Barr-Barron]] deciden patear la puerta hacia la habitacion 11, revelando la siguiente habitacion...
 
 ### Ex Kitchen
 
-Se ve como una cocina abandonada, el olor a carne podrida y arañas pequeñas invaden el lugar. Podemos ver una escalera al lado de la habitación, que asciende hacia el Main Deck. [[Miguelios|Miguelios]] invesitga, y encuentra una trampillas, trabada con una barra, que lleva a una habitación por debajo de la cocina, hacia el cargo hole. 
+Se ve como una cocina abandonada, el olor a carne podrida y arañas pequeñas invaden el lugar. Podemos ver una escalera al lado de la habitación, que asciende hacia el Main Deck. [[../Lore/Playable Characters/Miguelios|Miguelios]] invesitga, y encuentra una trampillas, trabada con una barra, que lleva a una habitación por debajo de la cocina, hacia el cargo hole. 
 
 ### Cargo Hold
 
-[[Tulion|Tulion]] investiga la trampilla con su búho. Escucha varios jadeos y sonido de agua, pero no mucho mas. [[Miguelios|Miguelios]] ofrece su antorcha, y la bajan con una soga para poder ver mejor. Gracias al shape water de [[Tulion|Tulion]], logramos ver que hay un cofre tipo caja fuerte, en muy buen estado, una caja fuerte en muy buen estado en comparación al resto del barco. 
+[[../Lore/Playable Characters/Tulion|Tulion]] investiga la trampilla con su búho. Escucha varios jadeos y sonido de agua, pero no mucho mas. [[../Lore/Playable Characters/Miguelios|Miguelios]] ofrece su antorcha, y la bajan con una soga para poder ver mejor. Gracias al shape water de [[../Lore/Playable Characters/Tulion|Tulion]], logramos ver que hay un cofre tipo caja fuerte, en muy buen estado, una caja fuerte en muy buen estado en comparación al resto del barco. 
 
 La araña se posa sobre la caja fuerte, no parece tener forma de abrirse. Encuentra un carta cerrada en la cercanía. 
 
-[[Tulion|Tulion]] propone un plan. Con su shape water puede crear un camino de hielo para que [[Barr-Barron|Barr-Barron]] baje por la escotilla anterior, sin escalera y mas cerca del cofre, para poder atarlo y subirlo con la soga. El agua en el piso de abajo sube a 5 feet. 
+[[../Lore/Playable Characters/Tulion|Tulion]] propone un plan. Con su shape water puede crear un camino de hielo para que [[../Lore/Playable Characters/Barr-Barron|Barr-Barron]] baje por la escotilla anterior, sin escalera y mas cerca del cofre, para poder atarlo y subirlo con la soga. El agua en el piso de abajo sube a 5 feet. 
 
-[[Barr-Barron|Barr-Barron]] baja, camina hacia el cofre y ata una soga para poder levantarlo. [[Miguelios|Miguelios]] tira con todas sus fuerzas per oel la soga se corta. Una magia rodea al cofre, protegiendolo de la magia y pertubaciones externas. Un movimiento brusco distrae a [[Tulion|Tulion]], el cual cae mientras intenta sostener los hielos en el piso de abajo. 
+[[../Lore/Playable Characters/Barr-Barron|Barr-Barron]] baja, camina hacia el cofre y ata una soga para poder levantarlo. [[../Lore/Playable Characters/Miguelios|Miguelios]] tira con todas sus fuerzas per oel la soga se corta. Una magia rodea al cofre, protegiendolo de la magia y pertubaciones externas. Un movimiento brusco distrae a [[../Lore/Playable Characters/Tulion|Tulion]], el cual cae mientras intenta sostener los hielos en el piso de abajo. 
 
-Ya estando abajo, el mago se acerca a al barbaro y revisa mas de cerca el cofre de cerca. Parece estar protegido por un sello anti-magia. [[Van-Lumen|Van-Lumen]] escucha eso y le sugirere a los gritos a [[Tulion|Tulion]]: "USA LA PALABRA TILDIBARIAS". Al pronunciar nuevamente la palabra magia, el cofre comienza a flotar y el plan continua.
+Ya estando abajo, el mago se acerca a al barbaro y revisa mas de cerca el cofre de cerca. Parece estar protegido por un sello anti-magia. [[Van-Lumen|Van-Lumen]] escucha eso y le sugirere a los gritos a [[../Lore/Playable Characters/Tulion|Tulion]]: "USA LA PALABRA TILDIBARIAS". Al pronunciar nuevamente la palabra magia, el cofre comienza a flotar y el plan continua.
 
 Al comenzar a mover el cofre, las respiraciones se amplifican, y del agua salen cuatro [[Gast|Gast]] (obtuvimos información por investigacion).
 
@@ -77,14 +77,14 @@ El barco empieza a moverse bruscamente, como si algo estuviese moviendolo. Algo 
 
 ### Meta Block
 
-[[Miguelios|Miguelios]] cobra consciencia, pero al parecer en el mundo astral. Intenta interactuar con nosotros, pero es como si fuese un fantasma. 
+[[../Lore/Playable Characters/Miguelios|Miguelios]] cobra consciencia, pero al parecer en el mundo astral. Intenta interactuar con nosotros, pero es como si fuese un fantasma. 
 ### Cubierta
 
-Subimos, luego de haber conseguido la caja, y arriba vemos que nos espera alguien... El Shaman [[Andaman|Andaman]], pero esta vez vestido con túnicas moradas y doradas... una moda cultista. Nos reclama el tesoro, a lo que [[Dror|Dror]] le responde con un frsotbite. Combat begins. 
+Subimos, luego de haber conseguido la caja, y arriba vemos que nos espera alguien... El Shaman [[../Lore/NPCs/Andaman|Andaman]], pero esta vez vestido con túnicas moradas y doradas... una moda cultista. Nos reclama el tesoro, a lo que [[../Lore/Playable Characters/Dror|Dror]] le responde con un frsotbite. Combat begins. 
 
 ### Party vs Andaman
 
-[[Andaman|Andaman]] invoca dos bolas de hielo. [[Tulion|Tulion]] abre portal. Miguelios habla con su entidad. Parece que compartimos un patron. Se convierte en Eldritch Mask. 
+[[../Lore/NPCs/Andaman|Andaman]] invoca dos bolas de hielo. [[../Lore/Playable Characters/Tulion|Tulion]] abre portal. Miguelios habla con su entidad. Parece que compartimos un patron. Se convierte en Eldritch Mask. 
 
 Andaman en un punto destruye el barco. Caemos al agua. Van Lumen queda inconsiente. 
 
