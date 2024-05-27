@@ -8,15 +8,15 @@ world: Veniventure
 created: 2024-05-25
 summary: Las Sombras de Saltmarch
 ---
-< [[World of Veniventure|World of Veniventure]]
+< [[../../World of Veniventure|World of Veniventure]]
 # Session Notes
 
 ## Summary
 
 ## Log
 
-## Day 6? Day 7?
-<small>26/25 días para la deuda de Miguelios</small>
+## Day 9? Day 10?
+<small>25/24 días para la deuda de Miguelios</small>
 
 Estamos en la torre más alta del campanario de Saltmarch. Nos encontramos con un monje, calvo, muy trabado (mas de level 6 lol), lo reconocemos como Leosin Eisenheart.
 
@@ -24,36 +24,20 @@ Leosin Eisenheart nos cuenta que Saltmarch esta siendo atacado hace 3 meses. Nos
 
 Podemos ver por las calles cultistas caminando con criaturas fantásticas de todo tipo. Aledeanos asustados, siendo esclavizados, levantando murallas y edificaciones para los cultistas.
 
-```leaflet 
-id: S20240525-Saltmarch-Map
-image: [[S20240525-Saltmarch-Map.jpeg]]
-height: 700px  
-width: 70%  
-lat: 50  
-long: 50  
-minZoom: 16.5  
-maxZoom: 18  
-defaultZoom: 16.75  
-zoomDelta: 0.25  
-unit: feet  
-scale: 1  
-darkMode: false
-```
-
-
+![[../../content/Veniventure/Sessions/Assets/S20240525-Saltmarch-Map-Snapshot.png|S20240525-Saltmarch-Map-Snapshot.png]]
 
 [[Pachamame|Pachamame]] entra
 
 Nos cuenta sobre Mascara Negra, líder del [[Consejo Supremo|Consejo Supremo]] (de esta facción)
-- [[Geland Primewater|Geland Primewater]] + [[Anders|Anders]] -- parte del [[Consejo Cultista de Saltmarch|Consejo Cultista de Saltmarch]] de [[Mascara Negra|Mascara Negra]]
+- [[../Lore/NPCs/Geland Primewater|Geland Primewater]] + [[../Lore/NPCs/Anders|Anders]] -- parte del [[Consejo Cultista de Saltmarch|Consejo Cultista de Saltmarch]] de [[Mascara Negra|Mascara Negra]]
 
-[[Eliandrel|Eliandrel]] + [[Maristrad Troperlord|Maristrad Troperlord]] + [[Skerin|Skerin]] -- resistencia -- facciones entre facciones 
+[[../Lore/NPCs/Eliandrel|Eliandrel]] + [[../Lore/NPCs/Maristrad Troperlord|Maristrad Troperlord]] + [[../Lore/NPCs/Skerin|Skerin]] -- resistencia -- facciones entre facciones 
 
 De Eda no se sabe nada 
 
 [[Consejo Cultista de Saltmarch|Consejo Cultista de Saltmarch]]
-- [[Geland Primewater|Geland Primewater]]
-- [[Anders|Anders]]
+- [[../Lore/NPCs/Geland Primewater|Geland Primewater]]
+- [[../Lore/NPCs/Anders|Anders]]
 - Miembros de [[Mascara Negra|Mascara Negra]]
 	- Baronesa Seclass
 		- Cultista del engaño
@@ -61,7 +45,7 @@ De Eda no se sabe nada
 		- Shapeshifter gracias a potas de Kemath
 	- Baron Kematch
 		- Malvado científico investigador experimento criaturas quimeras
-	- Sacedocita Kadra
+	- Sacerdotisa Kadra
 		- Alta sacerdotisa de los [[Sahuagin|Sahuagin]] 
 		- Adora a Secula - Deidad Tiburon
 	- Makath 
@@ -70,11 +54,18 @@ De Eda no se sabe nada
 
 Plan Original de [[Leosin Eisenheart|Leosin Eisenheart]] + [[Pachamame|Pachamame]] - distraer a los cultistas para asegurar la mascara verde. Hacer escaramuzas de aquí allá, para ganar acceso al templo de ____ a recuperar la mascara verde.
 
-Nos comenta sobre las ubicaciones del [[Consejo Cultista de Saltmarch|Consejo Cultista de Saltmarch]]
+Nos comenta sobre las ubicaciones del [[Consejo Cultista de Saltmarch|Consejo Cultista de Saltmarch]] y la resistencia (ver mapa).
+- Nosotros nos enctramos en el Camparanio de Brickwall, en el centro del mapa.
+- La resistencia se encuentra al Norte-Oeste, en Metrip
+	- La ultima ubicación conocida de Skerin es al Norte, en Bank Roadway
+- El laboratorio de Kematch esta en Shamblework, al Este de Brickwall
+- Mascara Negra y Makath se encuentran en Bankdyke, al Sur
+- Y tambien al Sur tenemos a la Sacerdotisa Kadra, en Pleasant Wright
+- Mientras que en Straton, fuera de la muralla al Sur, encontraremos el inigualable [[../Lore/Locations/Shops/Emporio de Vaisik|Emporio de Vaisik]]
 
-[[Maristrad Troperlord|Maristrad Troperlord]] es el único que conoce los movimientos subterráneos entre los burlos de [[Anders|Anders]] (marcados en rojo en el mapa). Nos comenta que hay salidas de estos túneles dentro de las murallas, pero no las tenemos identificados.
+[[../Lore/NPCs/Maristrad Troperlord|Maristrad Troperlord]] es el único que conoce los movimientos subterráneos entre los burlos de [[../Lore/NPCs/Anders|Anders]] (marcados en celeste en el mapa). Nos comenta que hay salidas de estos túneles dentro de las murallas, pero no las tenemos identificados.
 
-- [ ] Nos cuenta que planead ejecutar a [[Eliandrel|Eliandrel]] en Cuatro Noches #Dnd/Quest 
+- [ ] Nos cuenta que planean ejecutar a [[../Lore/NPCs/Eliandrel|Eliandrel]] en Cuatro Noches #Dnd/Quest 
 	- [ ] Cuatro Tenientes y Cuatro Noches para salvarlo
 	- [ ] Plan de buscar a los tenientes, potas de shapeshifting... Queremos ir a buscar a la resistencia.
 
