@@ -8,15 +8,15 @@ world: Veniventure
 created: 2024-03-09
 summary: Volviendo a Saltmarch.... O el Barco?
 ---
-< [[World of Veniventure|World of Veniventure]]
+< [[../../World of Veniventure|World of Veniventure]]
 # Session Notes
 
 ## Summary
 
 ## Log
 
-### Day 5
-<small>27 dias para la deuda de Miguelios</small>
+### Day 8
+<small>26 dias para la deuda de Miguelios</small>
 
 Tulion siente una presencia, algo que lo llama dentro dentro del cofre. Al acercarse, el candado que lo cerraba se abre automáticamente.
 
