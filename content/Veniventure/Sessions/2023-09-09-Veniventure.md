@@ -8,7 +8,7 @@ world: Veniventure
 created: 2023-09-09
 summary: "The Aftermath: Recompensas, Deuda y Duelos"
 ---
-< [[World of Veniventure|World of Veniventure]]
+< [[../../World of Veniventure|World of Veniventure]]
 
 # Session Notes
 
@@ -16,18 +16,18 @@ summary: "The Aftermath: Recompensas, Deuda y Duelos"
 
 ## Log
 
-### Day 1
+### Day 3
 
 #### Early Morning
 
-Last night, before leveling to Lvl 3, my patron bestowed new powers and a couple of messages #DnD/PatronMessage 
+Last night, before leveling to Lvl 3, my patron bestowed new powers and a couple of messages. #DnD/PatronMessage
 
-We have breakfast with [[Tarbaw Nightfield|Tarbaw Nightfield]] and [[Laarael|Laarael]]:
+We have breakfast with [[../Lore/NPCs/Tarbaw Nightfield|Tarbaw Nightfield]] and [[Laarael|Laarael]]:
 - [[Laarael|Laarael]] doesn't care about the people
-- [[Tarbaw Nightfield|Tarbaw Nightfield]] wants to resign to the city, take the citizen somewhere safe
+- [[../Lore/NPCs/Tarbaw Nightfield|Tarbaw Nightfield]] wants to resign to the city, take the citizen somewhere safe
 - Bar-Barron doesn't take lightly Laarael's opinion
 - [[Cultists|Cultists]] might still be hiding among the people
-- We need to check [[Saltmarch|Saltmarch]], to see if it's safe for the citizen
+- We need to check [[../Lore/Locations/Saltmarch|Saltmarch]], to see if it's safe for the citizen
 
 After breakfast, we split the party in two:
 
@@ -46,7 +46,7 @@ After breakfast, we split the party in two:
 		- Miguelios asks about [[Leonir|Leonir]], his master
 			- He learns [[Leonir|Leonir]] left before the attack, after withdrawing all his belongings from the bank
 			- Did he know about the attack beforehand?
-	- They pay us give us a new quest: [[Bolsa Profunda, Recompensa Profunda|Bolsa Profunda, Recompensa Profunda]] 
+	- They pay us give us a new quest: [[../Quests/Bolsa Profunda, Recompensa Profunda|Bolsa Profunda, Recompensa Profunda]] 
 	
 #### Shopping Time
 
@@ -62,19 +62,20 @@ After breakfast, we split the party in two:
 	- Espiral Loco x 2
 - Miguelios - Receives Ring of Jumping (1200g) #DnD/Item
 	- Gives Jump Spell (BA - At Will)  
-- Miguelios - He asked for loan and entered a contract with the bankers [[Bolsa Profunda|Bolsa Profunda]], triggering the quest [[Promesas y Deudas de Rohendel|Promesas y Deudas de Rohendel]].
+- Miguelios - He asked for loan and entered a contract with the bankers [[Bolsa Profunda|Bolsa Profunda]], triggering the quest [[../Quests/Promesas y Deudas de Rohendel|Promesas y Deudas de Rohendel]].
 - Tulion - Receives Wand of the Warmage +1 #DnD/Item
 	- Traded for an amethyst and Barr-Barron's old Greataxe	
+
 #### After Shopping
 
-Meera shared news about Oceanus, the scout that was checking on [[Saltmarch|Saltmarch]].
+Meera shared news about Oceanus, the scout that was checking on [[../Lore/Locations/Saltmarch|Saltmarch]].
 
-She warned us about a possible attack on [[Saltmarch|Saltmarch]], by lizard people.
+She warned us about a possible attack on [[../Lore/Locations/Saltmarch|Saltmarch]], by lizard people.
 
-We receive a new main quest : [[Marchando a Saltmarch|Marchando a Saltmarch]] 
+We receive a new main quest : [[../Quests/Marchando a Saltmarch|Marchando a Saltmarch]] 
 
 Greenrest gives us (as reward for saving the town, and for the future job) 
-- Miguelios receives [[Moon Toucher Rapier|Moon Toucher Rapier]], previously owned by  [[Greenrest|Greenrest]]'s founder #DnD/Item
+- Miguelios receives [[Moon Toucher Rapier|Moon Toucher Rapier]], previously owned by  [[../Lore/Locations/Greenrest|Greenrest]]'s founder #DnD/Item
 - Bar-Barron receives [[Elemental Gem - Yellow Diamond|Elemental Gem - Yellow Diamond]], containing Greenrest spirit. #DnD/Item
 - Tulion receives [[Scroll of Grease|Scroll of Grease]] and Scroll of Light. #DnD/Item
 - Van Lumen receives Wind Fan, can cast Gust of Wind, it recharges with the morning sun. #DnD/Item
@@ -83,7 +84,7 @@ Greenrest gives us (as reward for saving the town, and for the future job)
 
 #### Evening
 
-We go to [[Taverna de Gerungrind|Taverna de Gerungrind]]
+We go to [[../Lore/Locations/Shops/Taverna de Gerungrind|Taverna de Gerungrind]]
 - [[Gerungrind, the no-nonsense bartender|Gerungrind, the no-nonsense bartender]]
 - [[Linda|Linda]] used to work here
 - Bar-Barron learns [[Leonir|Leonir]] went west
