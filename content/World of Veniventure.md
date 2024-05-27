@@ -9,15 +9,15 @@ world: Veniventure
 
 ## Player Characters
 
-- [[Tulion|Tulion]]
-- [[Miguelios|Miguelios]]
-- [[Barr-Barron|Barr-Barron]]
-- [[Van Lumen|Van Lumen]]
-- [[Dror|Dror]]
+- [[./Veniventure/Lore/Playable Characters/Tulion|Tulion]]
+- [[./Veniventure/Lore/Playable Characters/Miguelios|Miguelios]]
+- [[./Veniventure/Lore/Playable Characters/Barr-Barron|Barr-Barron]]
+- [[./Veniventure/Lore/Playable Characters/Van Lumen|Van Lumen]]
+- [[./Veniventure/Lore/Playable Characters/Dror|Dror]]
 
 ## Quests
 
-- Go to [[Quest Summary|Quest Summary]]
+- Go to [[./Quest Summary|Quest Summary]]
 
 ## Last Sessions
 
