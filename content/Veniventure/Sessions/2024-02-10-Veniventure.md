@@ -8,27 +8,27 @@ world: Veniventure
 created: 2024-02-10
 summary: Escape, Cocodrilo y una Ciudad en Llamas
 ---
-< [[World of Veniventure|World of Veniventure]]
+< [[../../World of Veniventure|World of Veniventure]]
 # Session Notes
 
 ## Summary
 
 ## Log
 
-### Day 4
-<small>28 dias para la deuda de Miguelios</small>
+### Day 7
+<small>27 dias para la deuda de Miguelios</small>
 
 Miguelios tiene la mano de un [[Lokatha|Lokatha]].
 
-Volvemos al túnel camino hacia la habitacion de [[Poseidus|Poseidus]]. Al llegar, vemos que estas totalmente vacía, como si nadie la hubiese habitado alguna vez. Habia un cofre, pero este también estaba extrañamente vacío.
+Volvemos al túnel camino hacia la habitacion de [[../Lore/NPCs/Poseidus|Poseidus]]. Al llegar, vemos que estas totalmente vacía, como si nadie la hubiese habitado alguna vez. Habia un cofre, pero este también estaba extrañamente vacío.
 
-Entramos a la había de [[Andaman|Andaman]], y sentimos una fuerte alteración en el tejido de la magia (the weave).
+Entramos a la había de [[../Lore/NPCs/Andaman|Andaman]], y sentimos una fuerte alteración en el tejido de la magia (the weave).
 
 Intentamos salimos del tunel, apuntando a escapar de la cueva... pero todo empieza a templar, cayendo pedazos del piso. 
 
 Voz en Draconico: "Esta es Semunaya, juzgándonos por nuestros pecados" (la diosa serpiente)
 
-Dror castea Locate Life (Plant or Animal) para intentar buscar la salida... Siente la dirección.. Opuesta a lo de la [[Reina Othoken|Reina Othoken]]. Los terremotos siguen. 
+Dror castea Locate Life (Plant or Animal) para intentar buscar la salida... Siente la dirección.. Opuesta a lo de la [[../Lore/NPCs/Reina Othoken|Reina Othoken]]. Los terremotos siguen. 
 
 Salimos por otro lado, por una zona de pantanosa, en la mitad de la noche de luna llena. Rocky, el [[Elemental de Tierra|Elemental de Tierra]] derrumba la entrada por la que salimos. 
 
@@ -47,11 +47,11 @@ De una de las ranas sale algo brillante y cae en el pantano, solo Miguelios lo n
 
 Llegamos a los caballos, y empredemos el camino de regreso. 
 
-En el camino nos cruzamos a [[Gulpa'Gor, el Rey Bullywug|Gulpa'Gor, el Rey Bullywug]]. Nos pide ayuda, nos cuenta que la mascota de la [[Reina Othoken|Reina Othoken]], [[Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]] estaba atacando su pueblo, que se deboro su tesoro y mucha de su gente. Teme que haya sido por no haber optado unirse a su alianza.
+En el camino nos cruzamos a [[../Lore/NPCs/Gulpa'Gor, el Rey Bullywug|Gulpa'Gor, el Rey Bullywug]]. Nos pide ayuda, nos cuenta que la mascota de la [[../Lore/NPCs/Reina Othoken|Reina Othoken]], [[../Lore/NPCs/Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]] estaba atacando su pueblo, que se deboro su tesoro y mucha de su gente. Teme que haya sido por no haber optado unirse a su alianza.
 
-Vamos hacia el campamento [[Bullywug|Bullywug]], identificamos el rastro de la criatura y lo seguimos. Una neblina comienza a copar el espacio, y se vuelve mas espesa con cada paso. El terreno empieza a descender, hasta llegar a un pozo de agua negra...repleta de huesos de varias razas, aunque no de [[Sirenas|Sirenas]]. Unas burbujas salen del pozo de agua negra. Hay varias lianas cayendo 
+Vamos hacia el campamento [[../Lore/Races/Bullywug|Bullywug]], identificamos el rastro de la criatura y lo seguimos. Una neblina comienza a copar el espacio, y se vuelve mas espesa con cada paso. El terreno empieza a descender, hasta llegar a un pozo de agua negra...repleta de huesos de varias razas, aunque no de [[Sirenas|Sirenas]]. Unas burbujas salen del pozo de agua negra. Hay varias lianas cayendo 
 
-### Party vs [[Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]]
+### Party vs [[../Lore/NPCs/Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]]
 
 - Barr-Baron es sorprendido
 - Dror, Van Lumen y Tulion reaccionan a tiempo de forma defensiva
@@ -65,20 +65,20 @@ Barr-Baron salta con liana épicamente encima del cocodrilo gigante, clavando su
 
 Mil Dientes muere,  y las serpientes intentan escapar. Son asesinadas por ataques de oportunidad de Miguelios. 
 
-Fuera del agua, los cadaveres comienzas a cambiar de forma, convirtiendose en cuerpos de [[Sirenas|Sirenas]]. El cadaver de [[Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]] se convierte en de [[Neptunia|Neptunia]].
+Fuera del agua, los cadaveres comienzas a cambiar de forma, convirtiendose en cuerpos de [[Sirenas|Sirenas]]. El cadaver de [[../Lore/NPCs/Mil Dientes - El Cocodrilo Gigante|Mil Dientes - El Cocodrilo Gigante]] se convierte en de [[../Lore/NPCs/Neptunia|Neptunia]].
 
-El cofre de la tribu [[Bullywug|Bullywug]] queda a un lado 
+El cofre de la tribu [[../Lore/Races/Bullywug|Bullywug]] queda a un lado 
 
-Tras una corta revision, cortamos la cabeza de [[Neptunia|Neptunia]] y la agregamos a nuestro inventario.
+Tras una corta revision, cortamos la cabeza de [[../Lore/NPCs/Neptunia|Neptunia]] y la agregamos a nuestro inventario.
 
-### Day 5
-<small>27 dias para la deuda de Miguelios</small>
+### Day 8
+<small>26 dias para la deuda de Miguelios</small>
 
 Amanece mientras nos recomponemos luego de la batalla. 
 
-Al intentar volver a donde estaba [[Gulpa'Gor, el Rey Bullywug|Gulpa'Gor, el Rey Bullywug]] con nuestros caballos, no se encontraba.... Lo cual nos hace cuestionar porque no nos encontramos a ningún [[Bullywug|Bullywug]] de camino...
+Al intentar volver a donde estaba [[../Lore/NPCs/Gulpa'Gor, el Rey Bullywug|Gulpa'Gor, el Rey Bullywug]] con nuestros caballos, no se encontraba.... Lo cual nos hace cuestionar porque no nos encontramos a ningún [[../Lore/Races/Bullywug|Bullywug]] de camino...
 
-A lo lejos, escuchamos un ruido como el que hce semanas no habiamos escuchado. Un grito de dragon a lo lejos y la vision de [[Saltmarch|Saltmarch]] en llamas. 
+A lo lejos, escuchamos un ruido como el que hce semanas no habiamos escuchado. Un grito de dragon a lo lejos y la vision de [[../Lore/Locations/Saltmarch|Saltmarch]] en llamas. 
 
 
 
