@@ -4,7 +4,7 @@ share: true
 draft: false
 category: Veniventure/Quests
 tags: Dnd/Quest
-campaign: Veniventure
+world: Veniventure
 ---
 < [[../../Quest Summary|Quest Summary]]
 # Promesas y Deudas de Rohendel
